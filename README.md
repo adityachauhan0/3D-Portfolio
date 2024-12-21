@@ -2,7 +2,7 @@
 
 Welcome to my **3D Portfolio**! This portfolio site showcases my creative work and web development skills with a focus on 3D design and interactive features. Built with **Next.js**, **Three.js**, and **React-Three-Fiber**, this portfolio includes 3D elements, animations, and a smooth user experience.
 
-You can view the live portfolio here: [3D Portfolio Site](https://adityachauhan0.github.io/3D-Portfolio)
+You can view the live portfolio here: [3D Portfolio Site](https://portfol-adityac.netlify.app/)
 
 ---
 

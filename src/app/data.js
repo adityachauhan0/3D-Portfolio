@@ -17,29 +17,39 @@ Websites:
 */
 
 export const projectsData = [
+  
+    
+  
   {
     id: 1,
-    name: "Movie Recommender ML Model",
-    description: "SKLearn Python StreamLit",
-    date: "2022-08-15",
-    demoLink: "https://movie-suggestor.streamlit.app/",
+    name: "Sonic Runner Game",
+    description: "Web Game with Kaplay JS, Next JS and some cool parallax",
+    date: "2024-12-30",
+    demoLink: "https://sonic-js.netlify.app/",
   },
   {
     id: 2,
-    name: "Meditation App",
-    description: "React Native, Expo Router, Native Wind, JScript, TypeScript",
-    date: "2023-06-20",
-    demoLink: "https://github.com/adityachauhan0/meditation-app",
-  },
-  {
-    id: 3,
     name: "This Website!!",
     description: "ThreeJS, NextJS, Taiwind CSS, Framer Motion, React Hook Form, Sonner, Gltf JSX",
     date: "2024-09-10",
     demoLink: "https://portfol-adityac.streamlit.app/",
   },
   {
+    id: 3,
+    name: "Movie Recommender ML Model",
+    description: "SKLearn Python StreamLit",
+    date: "2022-08-15",
+    demoLink: "https://movie-suggestor.streamlit.app/",
+  },
+  {
     id: 4,
+    name: "Meditation App",
+    description: "React Native, Expo Router, Native Wind, JScript, TypeScript",
+    date: "2023-06-20",
+    demoLink: "https://github.com/adityachauhan0/meditation-app",
+  },
+  {
+    id: 5,
     name: "TCP FileStorage",
     description: "Decentralized File Storage System using GoLang",
     date: "2023-10-30",
